@@ -1,6 +1,6 @@
 nombre = "jao"
 apellido = "steven"
 
-saludo = "Hola " + nombre + " " + apellido + " ¿Cómo estás?"
+saludo = "hi " + nombre + " " + apellido + " ¿Cómo estás?"
 
 print(saludo)
